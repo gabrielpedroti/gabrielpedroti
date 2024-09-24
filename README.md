@@ -2,10 +2,7 @@
 
 ###
 
-<p align="left">Sempre fui apaixonado por tecnologia e agora estou iniciando minha carreira como desenvolvedor. Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira experiência como desenvolvedor.<br><br>
-  ✨ O guri que adorava desmontar tudo para ver como funcionava<br>
-  📚 Cursando Análise e desenvolvimento de sistemas na PUC-PR<br>
-  🎯 Quero através da técnologia melhorar o dia a dia das pessoas</p>
+<p align="left">Sempre fui apaixonado por tecnologia e agora estou iniciando minha carreira como desenvolvedor. Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira experiência como desenvolvedor.<br><br>✨ O guri que adorava desmontar tudo para ver como funcionava<br>📚 Cursando Análise e desenvolvimento de sistemas na PUC-PR<br>🎯 Quero através da técnologia melhorar o dia a dia das pessoas</p>
 
 ###
 
@@ -13,14 +10,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpedroti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielpedroti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Linguagens</h2>
+<h3 align="left">Linguagens</h3>
 
 ###
 
@@ -33,5 +23,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+##
+
+<p align="left">Email para contato: <a href="mailto:gabrielpedroti@icloud.com">gabrielpedroti@icloud.com</a></p>
 
 ###
