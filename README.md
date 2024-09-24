@@ -6,6 +6,17 @@
 
 ###
 
+<h3 align="left"> GitHub Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpedroti&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroti&layout=compact&hide_border=true&theme=dark" height="160" alt="Top Languages" />
+</div>
+
+###
+
 <h3 align="left">Linguagens</h3>
 
 ###
