@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sempre fui apaixonado por tecnologia e agora estou iniciando minha carreira como desenvolvedor. Aqui irei postar os projetos que desenvolvendo durante essa jornada, bora acompanhar?<br><br>✨ O guri que adorava desmontar tudo para ver como funcionava<br>📚 Cursando Análise e Desenvolvimento de Sistemas na PUC-PR<br>🎯 Quero, através da tecnologia, melhorar o dia a dia das pessoas</p>
+<p align="left">Sempre fui apaixonado por tecnologia e agora estou iniciando minha carreira como desenvolvedor. Aqui irei postar os projetos que desenvolvendo durante essa jornada, bora me acompanhar?<br><br>✨ O guri que adorava desmontar tudo para ver como funcionava<br>📚 Cursando Análise e Desenvolvimento de Sistemas na PUC-PR<br>🎯 Quero, através da tecnologia, melhorar o dia a dia das pessoas</p>
 
 ###
 
