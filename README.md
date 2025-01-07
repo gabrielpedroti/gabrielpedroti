@@ -1,4 +1,4 @@
-<h1 align="left">Eai! Sou o Gabriel, mas pode me chamar de Pedroti</h1>
+<h1 align="left">Eai! Eu sou o Gabriel, mas pode me chamar de Pedroti</h1>
 
 ###
 
