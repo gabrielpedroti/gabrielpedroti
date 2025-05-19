@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielpedroti&show_icons=true&hide_rank=false&hide_border=true&include_all_commits=true&count_private=true&theme=dark" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroti&layout=compact&hide_border=true&theme=dark" height="160" alt="Top Languages" />
 </div>
-
+<!--
 ###
 
 <h3 align="left">Linguagens</h3>
@@ -30,6 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
+-->
 
 ##
 
