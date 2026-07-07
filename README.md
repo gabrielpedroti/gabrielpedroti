@@ -1,30 +1,24 @@
-<h1 align="left">E aí! Eu sou o Gabriel</h1>
+### gabrielpedroti
 
-###
+```python
+class Pedroti(Developer):
 
-<p align="left">
-Sempre gostei tecnologia e agora estou iniciando minha carreira como desenvolvedor.  
-Aqui compartilho os projetos que venho trabalhando, aprendendo sempre mais!
-</p>
+    def __init__(self):
+        self.name     = 'Gabriel Pedroti'
+        self.role     = 'Software Developer'
+        self.company  = 'Baja & Aguiar'
+        self.focus    = ['automação', 'IA aplicada', 'sistemas internos']
+        self.locality = 'Curitiba - PR - Brazil'
+        self.degree   = 'Análise e Desenvolvimento de Sistemas — PUC-PR'
+        self.linkedin = 'linkedin.com/in/gabrielpedroti'
 
----
+    def workflow(self):
+        return 'entende o processo/problema → escreve a solução → testa/valida → deixa rodando'
 
-### GitHub Stats
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielpedroti&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800&v=1" 
-    height="160" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpedroti&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&v=1" 
-    height="160" 
-    alt="Top Languages" 
-  />
-</div>
 
----
-
-### Contato
-📧 [gabrielpedroti@icloud.com](mailto:gabrielpedroti@icloud.com)  
-🔗 [linkedin.com/in/gabrielpedroti](https://www.linkedin.com/in/gabrielpedroti)  
+class Skills(Pedroti):
+    languages = ['Python', 'JavaScript', 'HTML', 'CSS', 'Java']
+    frontend  = ['React']
+    ai        = ['LLMs aplicadas a automação de entregas']
+    learning  = ['full stack']
+```
