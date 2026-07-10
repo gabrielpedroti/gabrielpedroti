@@ -17,7 +17,7 @@ class Pedroti(Developer):
 
 
 class Skills(Pedroti):
-    languages = ['Python', 'JavaScript', 'HTML', 'CSS', 'Java']
+    languages = ['Python', 'JavaScript', 'HTML', 'CSS']
     frontend  = ['React']
     ai        = ['LLMs aplicadas a automação de entregas']
     learning  = ['full stack']
